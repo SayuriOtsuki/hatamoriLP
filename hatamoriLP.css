@@ -1,0 +1,211 @@
+.table {
+	display: table;
+}
+body {
+	background-color: #F6F2E9;
+}.clearL {
+	clear: left;
+}
+.clearR {
+}
+.floatL {
+	float: left;
+}
+
+.floatR {
+	float: right;
+}
+.clearBoth {
+	clear: both;
+}
+.center {
+	text-align: center;
+}
+.button {
+	text-align: center;
+	margin-top: 24px;
+	display: table;
+	margin-left: 200px;
+}
+.buyButton {
+	background-image: url(%E7%95%91%E5%AE%88LP_img/Button_Buy_On.png);
+	background-repeat: no-repeat;
+	float: left;
+	padding-right: 2px;
+}
+
+.buyButton a {
+	display: block;
+}
+
+.buyButton img {
+	border: none;
+}
+
+.buyButton a:hover {
+	background: none;
+}
+
+.buyButton a:hover img{
+	visibility: hidden;
+}
+
+.button_under {
+	text-align: center;
+	margin-top: 14px;
+	margin-left: 200px;
+}
+#hatamoritop h1 {
+	font-size: 34pt;
+	color: #494949;
+	margin-bottom: 18px;
+}
+.hatamoritop_smallText {
+	font-size: 34px;
+}
+.h1color {
+	color: #3BA99C;
+}
+.marginL20 {
+	margin-left: 20px;
+}
+.whenUseImg {
+	margin-left: 20px;
+	vertical-align: middle;
+}
+#hatamoritoph2 {
+	width: 400px;
+	display: inline-block;
+}
+.explainMiddle {
+	width: 350px;
+	display: inline-block;
+}
+.yokonarabi_goodPoint1 {
+	display: table-cell;
+	vertical-align: middle;
+}
+.yokonarabi_goodPoint2 {
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 33px;
+}
+#goodpoint {
+}
+.yokonarabi_howToUse1 {
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 64px;
+}
+.yokonarabi_howToUse2 {
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 64px;
+}
+.yokonarabi_howToUse3 {
+	display: table-cell;
+	vertical-align: top;
+	padding-right: 2px;
+}
+.yokonarabi_top_donyu {
+	display: table-cell;
+	padding-left: 15px;
+	vertical-align: top;
+}
+.yokonarabi_middle_whenuse1 {
+	display: table-cell;
+	vertical-align: middle;
+}
+.yokonarabi_middle_whenuse2 {
+	display: table-cell;
+	padding-left: 0px;
+	vertical-align: middle;
+}
+#goodpoint h2 {
+}
+.yokonarabi_middle_whenuse1text {
+	display: table-cell;
+	vertical-align: middle;
+	padding-right: 154px;
+	font-size: 14pt;
+}
+.yokonarabi_middle_whenuse2text  {
+	display: table-cell;
+	padding-left: 0px;
+	vertical-align: middle;
+	padding-right: 80px;
+	font-size: 14pt;
+}
+.yokonarabi_top_topL {
+	display: table-cell;
+	vertical-align: top;
+	padding-left: 0px;
+}
+.yokonarabi_top_topR {
+	display: table-cell;
+	vertical-align: top;
+	padding-left: 18px;
+	margin-top: 0px;
+	padding-top: 10px;
+}
+.topH2 {
+	margin-top: 0px;
+	margin-bottom: 10px;
+	color: #494949;
+	font-size: 22pt;
+}
+.howToUse_img1  {
+	padding-left: 58px;
+}
+.table_whenuse1 {
+	display: table;
+	margin-bottom: 20px;
+}
+.table_whenuse2 {
+	display: table;
+	margin-bottom: 20px;
+}
+.howToUseH1 {
+	color: #3BA99C;
+	margin-bottom: 10px;
+}
+.table_howToUse {
+	display: table;
+	margin-top: 0px;
+}
+.howToUse_p {
+	margin-top: 0px;
+}
+.howToUse_p2 {
+	margin-top: 0px;
+	padding-left: 16px;
+}
+.howToUse_p3 {
+	margin-top: 0px;
+	padding-left: 13px;
+}
+.table_goodpoint {
+	display: table;
+	margin-left: 30px;
+}
+.askButton {
+	background-image: url(%E7%95%91%E5%AE%88LP_img/Button_ask_On.png);
+	background-repeat: no-repeat;
+	float: left;
+}
+
+.askButton a{
+	display: block;
+}
+
+.askButton img {
+	border: none;
+}
+
+.askButton a:hover {
+	background: none;
+}
+
+.askButton a:hover img{
+	visibility: hidden;
+}
