@@ -1,56 +1,43 @@
-.table {
+.hatamori_table_donyu {
+	display: table;
+}
+.hatamori_table_top {
 	display: table;
 }
 body {
 	background-color: #F6F2E9;
-}.clearL {
+}
+.hatamori_clearL {
 	clear: left;
 }
-.clearR {
-}
-.floatL {
-	float: left;
-}
-
-.floatR {
-	float: right;
-}
-.clearBoth {
-	clear: both;
-}
-.center {
+.hatamori_center {
 	text-align: center;
 }
-.button {
+.hatamori_button {
 	text-align: center;
 	margin-top: 24px;
 	display: table;
 	margin-left: 200px;
 }
-.buyButton {
+.hatamori_buyButton {
 	background-image: url(%E7%95%91%E5%AE%88LP_img/Button_Buy_On.png);
 	background-repeat: no-repeat;
 	float: left;
 	padding-right: 2px;
 }
-
-.buyButton a {
+.hatamori_buyButton a {
 	display: block;
 }
-
-.buyButton img {
+.hatamori_buyButton img {
 	border: none;
 }
-
-.buyButton a:hover {
+.hatamori_buyButton a:hover {
 	background: none;
 }
-
-.buyButton a:hover img{
+.hatamori_buyButton a:hover img{
 	visibility: hidden;
 }
-
-.button_under {
+.hatamori_button_under {
 	text-align: center;
 	margin-top: 14px;
 	margin-left: 200px;
@@ -63,149 +50,132 @@ body {
 .hatamoritop_smallText {
 	font-size: 34px;
 }
-.h1color {
+.hatamori_h1color {
 	color: #3BA99C;
-}
-.marginL20 {
-	margin-left: 20px;
-}
-.whenUseImg {
-	margin-left: 20px;
-	vertical-align: middle;
 }
 #hatamoritoph2 {
 	width: 400px;
 	display: inline-block;
 }
-.explainMiddle {
-	width: 350px;
-	display: inline-block;
-}
-.yokonarabi_goodPoint1 {
+.hatamori_yokonarabi_goodPoint1 {
 	display: table-cell;
 	vertical-align: middle;
 }
-.yokonarabi_goodPoint2 {
+.hatamori_yokonarabi_goodPoint2 {
 	display: table-cell;
 	vertical-align: middle;
 	padding-left: 33px;
 }
-#goodpoint {
+#hatamori_goodpoint {
 }
-.yokonarabi_howToUse1 {
+.hatamori_yokonarabi_howToUse1 {
 	display: table-cell;
 	vertical-align: top;
 	padding-right: 64px;
 }
-.yokonarabi_howToUse2 {
+.hatamori_yokonarabi_howToUse2 {
 	display: table-cell;
 	vertical-align: top;
 	padding-right: 64px;
 }
-.yokonarabi_howToUse3 {
+.hatamori_yokonarabi_howToUse3 {
 	display: table-cell;
 	vertical-align: top;
 	padding-right: 2px;
 }
-.yokonarabi_top_donyu {
+.hatamori_yokonarabi_top_donyu {
 	display: table-cell;
 	padding-left: 15px;
 	vertical-align: top;
 }
-.yokonarabi_middle_whenuse1 {
+.hatamori_yokonarabi_middle_whenuse1 {
 	display: table-cell;
 	vertical-align: middle;
 }
-.yokonarabi_middle_whenuse2 {
+.hatamori_yokonarabi_middle_whenuse2 {
 	display: table-cell;
 	padding-left: 0px;
 	vertical-align: middle;
 }
-#goodpoint h2 {
-}
-.yokonarabi_middle_whenuse1text {
+.hatamori_yokonarabi_middle_whenuse1text {
 	display: table-cell;
 	vertical-align: middle;
 	padding-right: 154px;
 	font-size: 14pt;
 }
-.yokonarabi_middle_whenuse2text  {
+.hatamori_yokonarabi_middle_whenuse2text  {
 	display: table-cell;
 	padding-left: 0px;
 	vertical-align: middle;
 	padding-right: 80px;
 	font-size: 14pt;
 }
-.yokonarabi_top_topL {
+.hatamori_yokonarabi_top_topL {
 	display: table-cell;
 	vertical-align: top;
 	padding-left: 0px;
 }
-.yokonarabi_top_topR {
+.hatamori_yokonarabi_top_topR {
 	display: table-cell;
 	vertical-align: top;
 	padding-left: 18px;
 	margin-top: 0px;
 	padding-top: 10px;
 }
-.topH2 {
+.hatamori_topH2 {
 	margin-top: 0px;
 	margin-bottom: 10px;
 	color: #494949;
 	font-size: 22pt;
 }
-.howToUse_img1  {
+.hatamori_howToUse_img1  {
 	padding-left: 58px;
 }
-.table_whenuse1 {
+.hatamori_table_whenuse1 {
 	display: table;
 	margin-bottom: 20px;
 }
-.table_whenuse2 {
+.hatamori_table_whenuse2 {
 	display: table;
 	margin-bottom: 20px;
 }
-.howToUseH1 {
+.hatamori_howToUseH1 {
 	color: #3BA99C;
 	margin-bottom: 10px;
 }
-.table_howToUse {
+.hatamori_table_howToUse {
 	display: table;
 	margin-top: 0px;
 }
-.howToUse_p {
+.hatamori_howToUse_p1 {
 	margin-top: 0px;
 }
-.howToUse_p2 {
+.hatamori_howToUse_p2 {
 	margin-top: 0px;
 	padding-left: 16px;
 }
-.howToUse_p3 {
+.hatamori_howToUse_p3 {
 	margin-top: 0px;
 	padding-left: 13px;
 }
-.table_goodpoint {
+.hatamori_table_goodpoint {
 	display: table;
 	margin-left: 30px;
 }
-.askButton {
+.hatamori_askButton {
 	background-image: url(%E7%95%91%E5%AE%88LP_img/Button_ask_On.png);
 	background-repeat: no-repeat;
 	float: left;
 }
-
-.askButton a{
+.hatamori_askButton a{
 	display: block;
 }
-
-.askButton img {
+.hatamori_askButton img {
 	border: none;
 }
-
-.askButton a:hover {
+.hatamori_askButton a:hover {
 	background: none;
 }
-
-.askButton a:hover img{
+.hatamori_askButton a:hover img{
 	visibility: hidden;
 }
