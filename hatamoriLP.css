@@ -1,12 +1,14 @@
+body {
+	background-color: #F6F2E9;
+}
+
 .hatamori_table_donyu {
 	display: table;
 }
 .hatamori_table_top {
 	display: table;
 }
-body {
-	background-color: #F6F2E9;
-}
+
 .hatamori_clearL {
 	clear: left;
 }
@@ -41,6 +43,13 @@ body {
 	text-align: center;
 	margin-top: 14px;
 	margin-left: 285px;
+}
+.hatamori_logo_mini {
+	padding-top: 0px;
+	padding-left: 0px;
+	float: left;
+	margin-top: -2px;
+	margin-right: 4px;
 }
 #hatamoritop h1 {
 	font-size: 34pt;
