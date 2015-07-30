@@ -17,7 +17,7 @@ body {
 	text-align: center;
 	margin-top: 24px;
 	display: table;
-	margin-left: 200px;
+	margin-left: 285px;
 }
 .hatamori_buyButton {
 	background-image: url(%E7%95%91%E5%AE%88LP_img/Button_Buy_On.png);
@@ -40,7 +40,7 @@ body {
 .hatamori_button_under {
 	text-align: center;
 	margin-top: 14px;
-	margin-left: 200px;
+	margin-left: 285px;
 }
 #hatamoritop h1 {
 	font-size: 34pt;
